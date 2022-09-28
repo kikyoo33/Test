@@ -1,0 +1,186 @@
+site_name: mkdocs08
+
+nav:
+
+  - Table of Content: 
+
+    - Information: Information.md
+
+    - Overview: Overview.md
+
+    - Business Challenge: Business Challenge.md
+
+    - System Context: System Context.md
+
+    - Use Case Diagram:
+
+      - usecase1: Use Case Diagram/usecasediagram_3yOEWKfLCSm.md
+
+    - Use Case:
+
+      - Use Case5553432: Use Case/usecase_3yOG5w9WoOQ.md
+
+      - Use Case111: Use Case/usecase_3yOGezRoFc6.md
+
+    - Functional Requirements:
+
+      - Bnk - reduce cycle time: Functional Requirements/copied_ryBV8KDv4ki.md
+
+      - Bnk - value added service: Functional Requirements/copied_Skw4UFvPNys.md
+
+      - Shared SoR: Functional Requirements/copied_BJdVIKPPVkj.md
+
+      - Privacy: Functional Requirements/copied_SJp4ItDP4Js.md
+
+      - Consensus: Functional Requirements/copied_BksEItDwV1s.md
+
+      - Multi-consensus: Functional Requirements/copied_HJ2VItDwEJj.md
+
+      - User Management: Functional Requirements/copied_B1CEUtwPEks.md
+
+      - Hosting: Functional Requirements/copied_ByI4UtDvEki.md
+
+      - SC - government compliance enforcement: Functional Requirements/copied_rJt4LYDP4yi.md
+
+      - SC - transparency: Functional Requirements/copied_H1qEUFPDV1o.md
+
+    - Non Functional Requirements:
+
+      - nfr1: Non Functional Requirements/nonfunctionalrequirement_HkgMWl2Nkj.md
+
+    - Logical Data Model:
+
+      - ldm1: Logical Data Model/logicalerd_3yOGJmMOlK4.md
+
+    - Services View:
+
+      - sv0906: Services View/aodservices_3yC3jf38zRp.md
+
+    - Enterprise View:
+
+      - ente1: Enterprise View/aodenterprise_3zggAEs3F2y.md
+
+    - IT System View:
+
+      - Blockchain AOD IT System View - Base: IT System View/copied_ByZ_LYDwVkj.md
+
+    - Usage Scenario:
+
+      - Finance Letter of Credit: Usage Scenario/copied_SylrUtvDNys.md
+
+      - Supply Chain Usage Scenario: Usage Scenario/copied_r1DKLYDD4yj.md
+
+    - Architectural Decisions:
+
+      - ad1: Architectural Decisions/architecturaldecision_ryxINyhNJi.md
+
+    - Static View:
+
+      - static1: Static View/cmstaticview_3zgjKIVgmWQ.md
+
+    - Sequence View:
+
+      - sq1: Sequence View/cmdynamicview_3zgjYueGq6C.md
+
+    - Collaboration View:
+
+      - cv1: Collaboration View/cmcollaboration_3zgoRbFhjWE.md
+
+    - Logical Operational View:
+
+      - 1: Logical Operational View/lomview_3yOwLmxJykq.md
+
+    - Prescribed Operational View:
+
+      - pov1: Prescribed Operational View/pomview_3zgpl85OYxX.md
+
+    - Risks:
+
+      - re: Risks/risk_ry28LwNeo.md
+
+      - risk1: Risks/risk_HkejzIPExi.md
+
+    - Assumptions:
+
+      - Assumption 1: Assumptions/assumption_BkNdUDEeo.md
+
+      - Assumption 11: Assumptions/assumption_Hyg4O8wVlj.md
+
+    - Issues:
+
+      - Issues 1: Issues/issue_rk7t8vElo.md
+
+      - Issues 4: Issues/issue_rJxXFLP4go.md
+
+    - Dependencies:
+
+      - Dependency 1: Dependencies/dependency_Byr5IwVgs.md
+
+      - Dependency 3: Dependencies/dependency_r1eB9IPVgj.md
+
+    - Architectural Principles:
+
+      - AP: Architectural Principles/architectureprinciple_Byg3UvNxo.md
+
+      - Pri_01 Design for the future, build for today: Architectural Principles/architectureprinciple_Bkexn8w4gi.md
+
+    - RACI:
+
+      - raci1: RACI/notes_r1xS-uWw-j.md
+
+    - Sizing:
+
+      - sizing1: Sizing/notes_S1lhdubwZi.md
+
+    - Misc Diagram:
+
+      - misc1: Misc Diagram/miscdiagram_3zgq3GpIUbK.md
+
+    - Notes:
+
+      - Auto-Return Pen Design &amp; In-App Notification: Notes/notes_By86LPVxs.md
+
+      - Bill of Materials-from others: Notes/notes_SyeIaUPEej.md
+
+
+   
+       
+
+
+markdown_extensions:
+
+  - md_in_html
+
+  - toc:
+
+      permalink: True
+
+  - footnotes
+
+  - tables
+
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+  - attr_list
+
+theme:
+
+  name: material
+  palette:
+    primary: 'black'
+    accent: 'red'
+  font:
+    text: 'IBM Plex Sans'
+    code: 'IBM Plex Mono'
+  features:
+    # - navigation.tabs
+    - navigation.tabs.sticky
+  custom_dir:
+    theme
+
+extra_css:
+  - extra.css
+extra_javascript:
+  - extra.js
