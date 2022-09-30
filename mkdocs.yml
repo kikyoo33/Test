@@ -1,13 +1,11 @@
-# This is an example mkdocs.yml file, it will be overwritten during the GitHub Pages exporting
-
 # Site Information
-site_name: {architecture_name}
-site_url: "https://pages.github.ibm.com/{github_account}/{repo}"
-# site_description: {architecture_name}
+site_name: test gitpagew 0926_import 1
+site_url: https://github.com/kikyoo33/Test.git
+# site_description: test gitpagew 0926_import 1
 
 # # Repository Information
-# repo_name: '{repo}'
-# repo_url: 'https://github.ibm.com/{github_account}/{repo}'
+# repo_name: Test
+# repo_url: https://github.com/kikyoo33/Test.git
 # edit_uri: 'edit/main/docs'
 docs_dir: 'docs'
 # # site_dir: 'site'
@@ -15,25 +13,57 @@ docs_dir: 'docs'
 # remote_name: 'origin'
 
 # Server info
-dev_addr: '127.0.0.1:8000'
+# dev_addr: '127.0.0.1:8000'
 
 nav:
+
   - Table of Content: 
-    - Information: index.md
-    # ...
+
+    - 0. Information: index.md
+
+    - 1. Overview: Overview.md
+
+    - 5. Architecture: 
+
+      - 5.1 Architecture Overview: 
+
+        - 5.1.1 Services View: 
+
+          - 'sv2' : Services View/aodservices_3AHlYld1Gp1_HJdE1nzMs.md
+
+    - 10. Misc Diagram: 
+
+      - 'misc 2' : Misc Diagram/miscdiagram_ByGO03GMs.md
+
+      - 'misc _1' : Misc Diagram/miscdiagram_3AMGiiSwLyn.md
+
+      - 'misc3' : Misc Diagram/miscdiagram_3AMGY1ch4qf.md
+
+
+   
+       
+
 
 markdown_extensions:
+
   - md_in_html
+
   - toc:
+
       permalink: True
+
   - footnotes
+
   - tables
+
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+
   - attr_list
 
 theme:
+
   name: material
   palette:
     primary: 'black'
@@ -42,7 +72,7 @@ theme:
     text: 'IBM Plex Sans'
     code: 'IBM Plex Mono'
   logo: assets/ca.svg
-  favicon: assets/ca.svg     
+  favicon: assets/ca.svg 
   features:
     # - navigation.tabs
     - navigation.tabs.sticky
