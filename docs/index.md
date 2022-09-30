@@ -4,11 +4,11 @@
 
 ### Name
 
-test gitpagew 0926_import 1
+A Demo Arch 2_import 2
 
 ### Client Name
 
-
+ABC Corp
 
 ### Opportunity Number
 
@@ -18,6 +18,7 @@ test gitpagew 0926_import 1
 
 
 
+Cross-Industry  
 
 
 
@@ -50,7 +51,7 @@ test gitpagew 0926_import 1
 
 ### Share As-is
 
-true
+false
 
 
 ### Owner
@@ -72,4 +73,4 @@ Email: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; dujunyi@cn.ibm.com
 
 ### Last modified date
 
-2022-09-29
+2022-09-26

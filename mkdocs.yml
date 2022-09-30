@@ -1,7 +1,7 @@
 # Site Information
-site_name: test gitpagew 0926_import 1
+site_name: A Demo Arch 2_import 2
 site_url: https://github.com/kikyoo33/Test.git
-# site_description: test gitpagew 0926_import 1
+# site_description: A Demo Arch 2_import 2
 
 # # Repository Information
 # repo_name: Test
@@ -23,21 +23,333 @@ nav:
 
     - 1. Overview: Overview.md
 
+    - 2. Scope: 
+
+      - 2.1 Business Challenge: 
+
+        - 'Business Challenge' : Business Challenge.md
+
+      - 2.2 System Context: 
+
+        - 'System Context' : System Context.md
+
+    - 3. Requirement: 
+
+      - 3.1 Use Case Model: 
+
+        - 3.1.1 Use Case Diagram: 
+
+          - 'use case example' : Use Case Diagram/usecasediagram_1xnRIFAUaAz_B18mG8_Wo.md
+
+        - 3.1.2 Use Case: 
+
+          - 'aaa' : Use Case/usecase_2yND8khiRPx_B18mG8_Wo.md
+
+          - 'Foo' : Use Case/usecase_rJ75F2yo__B18mG8_Wo.md
+
+          - 'End-user login' : Use Case/uc_BkBBv-Kw18m_B18mG8_Wo.md
+
+          - 'Extended login' : Use Case/usecase_1xnSX0L5t8D_B18mG8_Wo.md
+
+          - 'Use Case' : Use Case/usecase_2VHklG6b60o_B18mG8_Wo.md
+
+          - 'Display Dashboard' : Use Case/usecase_22gMbhxiDKh_B18mG8_Wo.md
+
+      - 3.2 Functional Requirements: 
+
+        - 'Single Sign-on supported from Enterprise' : Functional Requirements/fr_ByZrv-twk8Q_B18mG8_Wo.md
+
+        - 'URD-1' : Functional Requirements/functionalrequirement_HyhUhm5PU_B18mG8_Wo.md
+
+        - 'URD-10' : Functional Requirements/functionalrequirement_ByOnI2X5P8_B18mG8_Wo.md
+
+        - 'URD-11' : Functional Requirements/functionalrequirement_r1Kn8375PL_B18mG8_Wo.md
+
+        - 'URD-12' : Functional Requirements/functionalrequirement_SJch83QqvL_B18mG8_Wo.md
+
+        - 'URD-13' : Functional Requirements/functionalrequirement_S1jhU3X9DL_B18mG8_Wo.md
+
+        - 'URD-14' : Functional Requirements/functionalrequirement_ry2hL3m9PU_B18mG8_Wo.md
+
+        - 'URD-15' : Functional Requirements/functionalrequirement_rk62U3X5vU_B18mG8_Wo.md
+
+        - 'URD-16' : Functional Requirements/functionalrequirement_H1R2U2m9wI_B18mG8_Wo.md
+
+        - 'URD-17' : Functional Requirements/functionalrequirement_ByJln8nX9DL_B18mG8_Wo.md
+
+        - 'URD-18' : Functional Requirements/functionalrequirement_HJll2U3Qcw8_B18mG8_Wo.md
+
+        - 'URD-19' : Functional Requirements/functionalrequirement_ry-xnL2m5w8_B18mG8_Wo.md
+
+        - 'URD-2' : Functional Requirements/functionalrequirement_SJghUnm5PL_B18mG8_Wo.md
+
+        - 'URD-20' : Functional Requirements/functionalrequirement_HJGxnL3mcwL_B18mG8_Wo.md
+
+        - 'URD-3' : Functional Requirements/functionalrequirement_rk-nU3QqvL_B18mG8_Wo.md
+
+        - 'URD-4' : Functional Requirements/functionalrequirement_ryMhUhQcD8_B18mG8_Wo.md
+
+        - 'URD-5' : Functional Requirements/functionalrequirement_H1mnInmcwI_B18mG8_Wo.md
+
+        - 'URD-6' : Functional Requirements/functionalrequirement_BJ4nLhmqwL_B18mG8_Wo.md
+
+        - 'URD-7' : Functional Requirements/functionalrequirement_rJrnI2m5DU_B18mG8_Wo.md
+
+        - 'URD-8' : Functional Requirements/functionalrequirement_B1LnUhQcDI_B18mG8_Wo.md
+
+        - 'URD-9' : Functional Requirements/functionalrequirement_BJw3UhXqvU_B18mG8_Wo.md
+
+      - 3.3 Non Functional Requirements: 
+
+        - 'Availability at 99.995%' : Non Functional Requirements/nonfunctionalrequirement_S1lsS6XTUr_B18mG8_Wo.md
+
+        - 'Support microservice implementation in multiple different languages' : Non Functional Requirements/nonfunctionalrequirement_SJ3DD-FvJIX_B18mG8_Wo.md
+
+    - 4. Data Model: 
+
+      - 4.1 Logical Data Model: 
+
+        - 'data model 1' : Logical Data Model/logicalerd_1KlEyAdy3fq_B18mG8_Wo.md
+
+        - 'data model 2' : Logical Data Model/logicalerd_H13PSAub7RE_B18mG8_Wo.md
+
+        - 'Drill-down' : Logical Data Model/logicalerd_3oMOvgCLghZ_B18mG8_Wo.md
+
+        - 'Event Data Model' : Logical Data Model/logicalerd_2UZ8iG2T30Z_B18mG8_Wo.md
+
     - 5. Architecture: 
 
       - 5.1 Architecture Overview: 
 
         - 5.1.1 Services View: 
 
-          - 'sv2' : Services View/aodservices_3AHlYld1Gp1_HJdE1nzMs.md
+          - 'Demo1' : Services View/aodservices_3pYHSLsFfzn_B18mG8_Wo.md
+
+          - 'High-Level Functional View' : Services View/aodservices_rkwXDZFwkUm_B18mG8_Wo.md
+
+          - 'Show icon symbols' : Services View/aodservices_1C3qopYn8Pn_B18mG8_Wo.md
+
+        - 5.1.2 Enterprise View: 
+
+          - 'A sample Enterprise View' : Enterprise View/aodenterprise_1xaP0ADfTNf_B18mG8_Wo.md
+
+          - 'My Enterprise View' : Enterprise View/aodenterprise_1kMfFnYuRnW_B18mG8_Wo.md
+
+        - 5.1.3 IT System View: 
+
+          - 'aaa' : IT System View/aoditsystem_3tsDTbzsc88_B18mG8_Wo.md
+
+          - 'Armada Control Plane' : IT System View/aoditsystem_BkeaLsPBMO_B18mG8_Wo.md
+
+          - 'banking example' : IT System View/aoditsystem_SyD-nkBRD_B18mG8_Wo.md
+
+          - 'banking for real' : IT System View/aoditsystem_ryj4PaVLd_B18mG8_Wo.md
+
+          - 'Built from CAC Template' : IT System View/aoditsystem_ryJZvbYPk8X_B18mG8_Wo.md
+
+          - 'check refresh styles' : IT System View/aoditsystem_3vn7zohOcyv_B18mG8_Wo.md
+
+          - 'Cloud sample' : IT System View/aoditsystem_SklYG5-Fw5_B18mG8_Wo.md
+
+          - 'Edge' : IT System View/aoditsystem_2m9PYdSeqw9_B18mG8_Wo.md
+
+          - 'Event Driven RA' : IT System View/aoditsystem_2Pc2gosPNmm_B18mG8_Wo.md
+
+          - 'FSS on VPC pattern' : IT System View/aoditsystem_3oEYSYbQUEc_B18mG8_Wo.md
+
+          - 'IBM Edge Application Manager for Clusters' : IT System View/aoditsystem_ByHojAyrD_Hk2meFtIF_B18mG8_Wo.md
+
+          - 'Nested LN test' : IT System View/aoditsystem_rylaIyOv_5_B18mG8_Wo.md
+
+          - 'Openshift RDS Operator' : IT System View/aoditsystem_2b7NHHJeOye_B18mG8_Wo.md
+
+          - 'RHOCP-02 export' : IT System View/aoditsystem_HJxlUBOcDc_B18mG8_Wo.md
+
+          - 'Round trip test - RHOCP-02 export' : IT System View/aoditsystem_S1lgMu-_Ft_B18mG8_Wo.md
+
+          - 'Runtime View' : IT System View/aoditsystem_Hy-w-KwJLX_B18mG8_Wo.md
+
+          - 'Show team AOD' : IT System View/aoditsystem_2kUKWCXAuvn_B18mG8_Wo.md
+
+          - 'Simple zones' : IT System View/aoditsystem_2Ir63KoKaIJ_B18mG8_Wo.md
+
+          - 'Simple zones 2' : IT System View/aoditsystem_ryUbVZszd_B18mG8_Wo.md
+
+          - 'Visualization Paper' : IT System View/aoditsystem_34XIsXb9za1_B18mG8_Wo.md
+
+          - 'visualizationdemo' : IT System View/aoditsystem_36UX51TgpEQ_B18mG8_Wo.md
+
+        - 5.1.4 Usage Scenario: 
+
+          - 'EDA example 2' : Usage Scenario/aodusagescenario_2YxgcceseZC_B18mG8_Wo.md
+
+          - 'Event Based Usage Scenario' : Usage Scenario/aodusagescenario_2Pehk6XxmV6_B18mG8_Wo.md
+
+          - 'Example' : Usage Scenario/aodusagescenario_2lAyqgvkOyT_B18mG8_Wo.md
+
+          - 'US for Runtime' : Usage Scenario/aodusagescenario_SyKDPbYw1UQ_B18mG8_Wo.md
+
+          - 'US2' : Usage Scenario/aodusagescenario_1nAUCHuYago_B18mG8_Wo.md
+
+          - 'walkthrough EDA' : Usage Scenario/aodusagescenario_3q5EeNfusXH_B18mG8_Wo.md
+
+      - 5.2 Architectural Decisions: 
+
+        - 'Premises for single-tenant cloud platform' : Architectural Decisions/architecturaldecision_HJJLe4_nL_B18mG8_Wo.md
+
+        - 'A set' : Architectural Decisions/architecturaldecision_ryxr_kNu3L_B18mG8_Wo.md
+
+        - 'Frequency of Data Transfer' : Architectural Decisions/architecturaldecision_Sk_1XqkQF_B18mG8_Wo.md
+
+        - 'Data Veracity' : Architectural Decisions/architecturaldecision_r1GO17cymF_B18mG8_Wo.md
+
+        - 'Endorsement policies - Deployment Considerations' : Architectural Decisions/architecturaldecision_r1HZS5CnI_B18mG8_Wo.md
+
+        - 'Environment Setup Considerations' : Architectural Decisions/architecturaldecision_S1wSbHcAhI_B18mG8_Wo.md
+
+        - 'IBP deployment choices' : Architectural Decisions/architecturaldecision_rkXrWB5RnL_B18mG8_Wo.md
+
+        - 'Coexistence of different Cloud Paks on the same infrastructure' : Architectural Decisions/architecturaldecision_HkdQn9bYu_B18mG8_Wo.md
+
+      - 5.3 Component Model: 
+
+        - 5.3.1 Static View: 
+
+          - 'foo' : Static View/cmstaticview_2PKDqmgMpTq_B18mG8_Wo.md
+
+          - 'Static View' : Static View/cmstaticview_1QlP8FG3KaZ_B18mG8_Wo.md
+
+        - 5.3.2 Sequence View: 
+
+          - 'sequence view' : Sequence View/cmdynamicview_ByPBw-Fw1Lm_B18mG8_Wo.md
+
+        - 5.3.3 Collaboration View: 
+
+          - 'Event Architecture' : Collaboration View/cmcollaboration_2UYFm8c8Zq8_B18mG8_Wo.md
+
+      - 5.4 Operational Model: 
+
+        - 5.4.1 Logical Operational View: 
+
+          - 'LOM for Heatmap' : Logical Operational View/lomview_2Ir94BKErqu_B18mG8_Wo.md
+
+          - 'LOM view' : Logical Operational View/lomview_H1PUvbtP1LX_B18mG8_Wo.md
+
+          - 'LOM View2' : Logical Operational View/lomview_SkkqfI25V_B18mG8_Wo.md
+
+          - 'Nested LN test' : Logical Operational View/lomview_S1e5KCPDdq_B18mG8_Wo.md
+
+        - 5.4.2 Prescribed Operational View: 
+
+          - 'Linked POM' : Prescribed Operational View/pomview_1A4wGA2HEGp_B18mG8_Wo.md
+
+          - 'Multi-zone Kube Clusters' : Prescribed Operational View/pomview_1VE6fAN6Gs2_B18mG8_Wo.md
+
+          - 'POM view from LOM view' : Prescribed Operational View/pomview_378tvn5ZB0f_B18mG8_Wo.md
+
+          - 'Sample Pom' : Prescribed Operational View/pomview_Bk0UvZFvk87_B18mG8_Wo.md
+
+          - 'Sample Production Sized POM' : Prescribed Operational View/pomview_1DqGUq7CtEl_B18mG8_Wo.md
+
+    - 6. RAID: 
+
+      - 6.1 Risks: 
+
+        - 'Go Live Testing' : Risks/risk_HyRvPbFPk8m_B18mG8_Wo.md
+
+      - 6.2 Assumptions: 
+
+        - 'Full development team available' : Assumptions/assumption_B1euv-FP1I7_B18mG8_Wo.md
+
+      - 6.3 Issues: 
+
+        - 'Limited local SMEs' : Issues/issue_HJzdv-KPkLm_B18mG8_Wo.md
+
+      - 6.4 Dependencies: 
+
+        - 'PMR XX.yy resolved before proejct start' : Dependencies/dependency_B1NODbYvyL7_B18mG8_Wo.md
+
+    - 7. Architectural Principles: 
+
+      - 'Accountability' : Architectural Principles/architectureprinciple_B1JEjUm08_B18mG8_Wo.md
+
+      - 'Buy vs. Build' : Architectural Principles/ap_B1XHPWFPkUQ_B18mG8_Wo.md
+
+      - 'Internet protocol (IP) address considerations' : Architectural Principles/architectureprinciple_HymyVoUQA8_B18mG8_Wo.md
+
+      - 'IS vs Business Unit Responsibility' : Architectural Principles/architectureprinciple_HkGk4s8XAL_B18mG8_Wo.md
+
+      - 'Privacy' : Architectural Principles/architectureprinciple_SyZkEsU70U_B18mG8_Wo.md
+
+      - 'Technology Acquisition' : Architectural Principles/architectureprinciple_BJlJ4oUXAL_B18mG8_Wo.md
+
+    - 8. RACI: 
+
+      - 'RACI' : RACI/notes_r1x_DGcR-o.md
+
+    - 9. Sizing: 
+
+      - 'Copy of Copy of add' : Sizing/notes_H1K3zcA-s.md
+
+      - 'Copy of Copy of Copy of add' : Sizing/notes_SkgKnG9AWs.md
 
     - 10. Misc Diagram: 
 
-      - 'misc 2' : Misc Diagram/miscdiagram_ByGO03GMs.md
+      - 'aa' : Misc Diagram/miscdiagram_2X2athOiMxr_B18mG8_Wo.md
 
-      - 'misc _1' : Misc Diagram/miscdiagram_3AMGiiSwLyn.md
+      - 'AAD with 2 layers' : Misc Diagram/miscdiagram_2AL4xC0U1Mk_B18mG8_Wo.md
 
-      - 'misc3' : Misc Diagram/miscdiagram_3AMGY1ch4qf.md
+      - 'ab' : Misc Diagram/miscdiagram_38y8ionH5TY_B18mG8_Wo.md
+
+      - 'Armada Control Plane' : Misc Diagram/miscdiagram_2tB1XvdFeZX_B18mG8_Wo.md
+
+      - 'asd' : Misc Diagram/miscdiagram_2PM9zgzP8WA_B18mG8_Wo.md
+
+      - 'Cloud sample' : Misc Diagram/miscdiagram_3oE0jSSJixI_B18mG8_Wo.md
+
+      - 'Component UML' : Misc Diagram/miscdiagram_2uwWNlfuH9I_B18mG8_Wo.md
+
+      - 'demo draw.io import' : Misc Diagram/miscdiagram_2TPHMROLx3p_B18mG8_Wo.md
+
+      - 'ibm cloud architecture' : Misc Diagram/miscdiagram_3ohfVaqSnDX_B18mG8_Wo.md
+
+      - 'IBM Stencil Icon Map' : Misc Diagram/miscdiagram_2P5bVRLULUQ_B18mG8_Wo.md
+
+      - 'IKS control plane' : Misc Diagram/miscdiagram_2u5HYgM8Vz6_B18mG8_Wo.md
+
+      - 'Imported Use Cases' : Misc Diagram/miscdiagram_2HiCbpagLuG_B18mG8_Wo.md
+
+      - 'Legends' : Misc Diagram/miscdiagram_34XpNrgHcc1_B18mG8_Wo.md
+
+      - 'Nested LN test' : Misc Diagram/miscdiagram_3pFOvl0IUjW_B18mG8_Wo.md
+
+      - 'RHOCP-02 export' : Misc Diagram/miscdiagram_38y2ApOGmcU_B18mG8_Wo.md
+
+      - 'Screenshots' : Misc Diagram/miscdiagram_2PbKQvdqGJM_B18mG8_Wo.md
+
+      - 'test changing types' : Misc Diagram/miscdiagram_2YkL9JZXpSE_B18mG8_Wo.md
+
+      - 'vnext flow' : Misc Diagram/miscdiagram_2DZnktdNwUG_B18mG8_Wo.md
+
+      - 'xyz' : Misc Diagram/miscdiagram_3q5FdeWWDZ7_B18mG8_Wo.md
+
+    - 11. Notes: 
+
+      - '1234' : Notes/notes_H1ek5LVg8q_B18mG8_Wo.md
+
+      - 'Architecture and Standards (ARC 310)' : Notes/notes_Hkg0HFGh9v_H1SusQJkK_B18mG8_Wo.md
+
+      - 'asd' : Notes/notes_r1xwpnitMP_B18mG8_Wo.md
+
+      - 'Business Glossary' : Notes/notes_r1euL3r2oS_B18mG8_Wo.md
+
+      - 'Empathy Map' : Notes/notes_S1Y_PZFvJ87_B18mG8_Wo.md
+
+      - 'Hybrid Multi Cloud PoV' : Notes/notes_HyggGt9o9Q_B18mG8_Wo.md
+
+      - 'Opportunity Plan V2' : Notes/notes_rkro4wMnqw_H1SusQJkK_B18mG8_Wo.md
+
+      - 'test 1' : Notes/notes_rJeQJL4l85_B18mG8_Wo.md
 
 
    
