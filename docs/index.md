@@ -4,11 +4,11 @@
 
 ### Name
 
-A Demo Arch 2_import 2
+test gitpagew 0926
 
 ### Client Name
 
-ABC Corp
+
 
 ### Opportunity Number
 
@@ -18,7 +18,6 @@ ABC Corp
 
 
 
-Cross-Industry  
 
 
 
@@ -73,4 +72,4 @@ Email: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; dujunyi@cn.ibm.com
 
 ### Last modified date
 
-2022-09-26
+2022-09-28

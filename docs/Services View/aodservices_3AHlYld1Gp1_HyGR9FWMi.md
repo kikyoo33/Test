@@ -1,14 +1,14 @@
 
 ## Diagram
 
-![data model 2](../img/logicalerd_H13PSAub7RE_B18mG8_Wo.png)
+![sv2](../img/aodservices_3AHlYld1Gp1_HyGR9FWMi.png)
 
 
 
 ### Name
 
 
-data model 2
+sv2
 
 
 ### Description
@@ -20,13 +20,21 @@ data model 2
 [Expand all](#){ .md-button .diff-line }
 
 
-### Entities
+### Actor
+
+
+    
+
+
+
+
+### Subsystem
 
 
     
 
 <details markdown=1>
-<summary markdown="span">Entity</summary>
+<summary markdown="span">SubSystem</summary>
 
 <table>
     <caption></caption>
@@ -38,19 +46,11 @@ data model 2
     </thead>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Entity</td>
+        <td>SubSystem</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
         <td></td>
-    </tr>
-    <tr>
-        <td> <strong>Attributes</strong> </td>
-        
-        <td>
-                
-            </td>
-        
     </tr>
 </table>
 
@@ -60,8 +60,16 @@ data model 2
 
     
 
+
+
+
+### Logical Component
+
+
+    
+
 <details markdown=1>
-<summary markdown="span">foo_Copy</summary>
+<summary markdown="span">app mod|app ana l2</summary>
 
 <table>
     <caption></caption>
@@ -73,19 +81,38 @@ data model 2
     </thead>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>foo_Copy</td>
+        <td>app mod|app ana l2</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
         <td></td>
     </tr>
+</table>
+
+
+</details>
+
+
+    
+
+<details markdown=1>
+<summary markdown="span">data security l2</summary>
+
+<table>
+    <caption></caption>
+    <thead>
+        <tr>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
     <tr>
-        <td> <strong>Attributes</strong> </td>
-        
-        <td>
-                
-            </td>
-        
+        <td> <strong>Name</strong> </td>
+        <td>data security l2</td>
+    </tr>
+    <tr>
+        <td> <strong>Description</strong> </td>
+        <td></td>
     </tr>
 </table>
 
@@ -97,7 +124,8 @@ data model 2
 
 
 
-### Relationships
+
+### Logical Connector
 
 
     
