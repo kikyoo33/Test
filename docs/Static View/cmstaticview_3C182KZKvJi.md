@@ -1,14 +1,14 @@
 
 ## Diagram
 
-![sv2](../img/aodservices_3AHlYld1Gp1_HyGR9FWMi.png)
+![stv](../img/cmstaticview_3C182KZKvJi.png)
 
 
 
 ### Name
 
 
-sv2
+stv
 
 
 ### Description
@@ -33,32 +33,6 @@ sv2
 
     
 
-<details markdown=1>
-<summary markdown="span">SubSystem</summary>
-
-<table>
-    <caption></caption>
-    <thead>
-        <tr>
-            <th></th>
-            <th></th>
-        </tr>
-    </thead>
-    <tr>
-        <td> <strong>Name</strong> </td>
-        <td>SubSystem</td>
-    </tr>
-    <tr>
-        <td> <strong>Description</strong> </td>
-        <td></td>
-    </tr>
-</table>
-
-
-</details>
-
-
-    
 
 
 
@@ -69,7 +43,7 @@ sv2
     
 
 <details markdown=1>
-<summary markdown="span">app mod|app ana l2</summary>
+<summary markdown="span">Logical Component (Original)1</summary>
 
 <table>
     <caption></caption>
@@ -81,7 +55,7 @@ sv2
     </thead>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>app mod|app ana l2</td>
+        <td>Logical Component (Original)1</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -96,7 +70,7 @@ sv2
     
 
 <details markdown=1>
-<summary markdown="span">data security l2</summary>
+<summary markdown="span">Logical Component (Original)2</summary>
 
 <table>
     <caption></caption>
@@ -108,7 +82,34 @@ sv2
     </thead>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>data security l2</td>
+        <td>Logical Component (Original)2</td>
+    </tr>
+    <tr>
+        <td> <strong>Description</strong> </td>
+        <td></td>
+    </tr>
+</table>
+
+
+</details>
+
+
+    
+
+<details markdown=1>
+<summary markdown="span">Logical Component (Original)3</summary>
+
+<table>
+    <caption></caption>
+    <thead>
+        <tr>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tr>
+        <td> <strong>Name</strong> </td>
+        <td>Logical Component (Original)3</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -129,5 +130,8 @@ sv2
 
 
     
+
+
+
 
 

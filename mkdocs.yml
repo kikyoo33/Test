@@ -1,7 +1,7 @@
 # Site Information
-site_name: test gitpagew 0926
+site_name: test 1012
 site_url: https://github.com/kikyoo33/Test.git
-# site_description: test gitpagew 0926
+# site_description: test 1012
 
 # # Repository Information
 # repo_name: Test
@@ -23,13 +23,47 @@ nav:
 
     - 1. Overview: Overview.md
 
+    - 2. Scope: 
+
+      - 2.2 System Context: 
+
+        - 'System Context' : System Context.md
+
     - 5. Architecture: 
 
       - 5.1 Architecture Overview: 
 
         - 5.1.1 Services View: 
 
-          - 'sv2' : Services View/aodservices_3AHlYld1Gp1_HyGR9FWMi.md
+          - 'sv' : Services View/aodservices_3C17Ktrkiey.md
+
+      - 5.2 Architectural Decisions: 
+
+        - 'Premises for single-tenant cloud platform' : Architectural Decisions/architecturaldecision_BkeLtsg4mo.md
+
+        - 'A set' : Architectural Decisions/architecturaldecision_BJbLYslVQi.md
+
+        - 'Copy of Premises for single-tenant cloud platform' : Architectural Decisions/architecturaldecision_BkwtigNmo.md
+
+        - 'Copy of A set' : Architectural Decisions/architecturaldecision_HkxwFog4Qj.md
+
+        - 'Copy of Frequency of Data Transfer' : Architectural Decisions/architecturaldecision_S1-PKoeVmo.md
+
+        - 'Copy of Data Veracity' : Architectural Decisions/architecturaldecision_SyNDYseVmj.md
+
+        - 'Frequency of Data Transfer' : Architectural Decisions/architecturaldecision_SkfUYoe4ms.md
+
+        - 'Data Veracity' : Architectural Decisions/architecturaldecision_SJrUYoxNmj.md
+
+      - 5.3 Component Model: 
+
+        - 5.3.1 Static View: 
+
+          - 'stv' : Static View/cmstaticview_3C182KZKvJi.md
+
+    - 8. RACI: 
+
+      - 'a' : RACI/notes_rygJvzeHQj.md
 
 
    
