@@ -49,7 +49,7 @@ var printLvl1 = function (result, hasContent ){
     }
 }
 var printLvl2 = function (result, hasContent ){
-  if(result.name == '2.1 Business Challenge' ||  result.name == '2.2 System Context'){
+  if(result.artifactTypeName.includes('Business Challenge') ||  result.artifactTypeName.includes('System Context')){
        typeFlag[result.name] = true;
 %>
       - <%=result.name + ': '%>

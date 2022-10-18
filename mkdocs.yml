@@ -1,7 +1,7 @@
 # Site Information
-site_name: test 1012
+site_name: teamsd 1018
 site_url: https://github.com/kikyoo33/Test.git
-# site_description: test 1012
+# site_description: teamsd 1018
 
 # # Repository Information
 # repo_name: Test
@@ -23,47 +23,35 @@ nav:
 
     - 1. Overview: Overview.md
 
-    - 2. Scope: 
+    - 2. Persona: 
 
-      - 2.2 System Context: 
+      - 'persona11' : Misc Diagram/miscdiagram_3CyTkaVnDn4.md
 
-        - 'System Context' : System Context.md
+      - 'persona12' : Misc Diagram/miscdiagram_SJiwP9iXj.md
 
-    - 5. Architecture: 
+    - 4. Requirements: 
 
-      - 5.1 Architecture Overview: 
+      - 4.1 Functional Requirements (req matrix): 
 
-        - 5.1.1 Services View: 
+        - 'FR Name' : Functional Requirements/functionalrequirement_S1Q9P9oQs.md
 
-          - 'sv' : Services View/aodservices_3C17Ktrkiey.md
+        - 'FR Name1' : Functional Requirements/functionalrequirement_HJemqPci7s.md
 
-      - 5.2 Architectural Decisions: 
+      - 4.2 NFRs: 
 
-        - 'Premises for single-tenant cloud platform' : Architectural Decisions/architecturaldecision_BkeLtsg4mo.md
+        - 'nfr1' : Non Functional Requirements/nonfunctionalrequirement_BJlqiP5sQi.md
 
-        - 'A set' : Architectural Decisions/architecturaldecision_BJbLYslVQi.md
+        - 'nfr2' : Non Functional Requirements/nonfunctionalrequirement_SJc0D9iXs.md
 
-        - 'Copy of Premises for single-tenant cloud platform' : Architectural Decisions/architecturaldecision_BkwtigNmo.md
+    - 7. Viability Assessment (RAID): 
 
-        - 'Copy of A set' : Architectural Decisions/architecturaldecision_HkxwFog4Qj.md
+      - 7.1 Risks: 
 
-        - 'Copy of Frequency of Data Transfer' : Architectural Decisions/architecturaldecision_S1-PKoeVmo.md
+        - 'risks' : Risks/risk_rygP7_9oQj.md
 
-        - 'Copy of Data Veracity' : Architectural Decisions/architecturaldecision_SyNDYseVmj.md
+    - 8. Misc Diagram: 
 
-        - 'Frequency of Data Transfer' : Architectural Decisions/architecturaldecision_SkfUYoe4ms.md
-
-        - 'Data Veracity' : Architectural Decisions/architecturaldecision_SJrUYoxNmj.md
-
-      - 5.3 Component Model: 
-
-        - 5.3.1 Static View: 
-
-          - 'stv' : Static View/cmstaticview_3C182KZKvJi.md
-
-    - 8. RACI: 
-
-      - 'a' : RACI/notes_rygJvzeHQj.md
+      - 'misc2' : Misc Diagram/miscdiagram_3CyU19Xxx1L.md
 
 
    
