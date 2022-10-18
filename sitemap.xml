@@ -2,72 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://github.com/kikyoo33/Test.git/</loc>
-         <lastmod>2022-10-14</lastmod>
+         <lastmod>2022-10-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/kikyoo33/Test.git/Overview/</loc>
-         <lastmod>2022-10-14</lastmod>
+         <lastmod>2022-10-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/kikyoo33/Test.git/System%20Context/</loc>
-         <lastmod>2022-10-14</lastmod>
+         <loc>https://github.com/kikyoo33/Test.git/Functional%20Requirements/functionalrequirement_HJemqPci7s/</loc>
+         <lastmod>2022-10-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/kikyoo33/Test.git/Architectural%20Decisions/architecturaldecision_BJbLYslVQi/</loc>
-         <lastmod>2022-10-14</lastmod>
+         <loc>https://github.com/kikyoo33/Test.git/Functional%20Requirements/functionalrequirement_S1Q9P9oQs/</loc>
+         <lastmod>2022-10-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/kikyoo33/Test.git/Architectural%20Decisions/architecturaldecision_BkeLtsg4mo/</loc>
-         <lastmod>2022-10-14</lastmod>
+         <loc>https://github.com/kikyoo33/Test.git/Misc%20Diagram/miscdiagram_3CyTkaVnDn4/</loc>
+         <lastmod>2022-10-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/kikyoo33/Test.git/Architectural%20Decisions/architecturaldecision_BkwtigNmo/</loc>
-         <lastmod>2022-10-14</lastmod>
+         <loc>https://github.com/kikyoo33/Test.git/Misc%20Diagram/miscdiagram_3CyU19Xxx1L/</loc>
+         <lastmod>2022-10-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/kikyoo33/Test.git/Architectural%20Decisions/architecturaldecision_HkxwFog4Qj/</loc>
-         <lastmod>2022-10-14</lastmod>
+         <loc>https://github.com/kikyoo33/Test.git/Misc%20Diagram/miscdiagram_SJiwP9iXj/</loc>
+         <lastmod>2022-10-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/kikyoo33/Test.git/Architectural%20Decisions/architecturaldecision_S1-PKoeVmo/</loc>
-         <lastmod>2022-10-14</lastmod>
+         <loc>https://github.com/kikyoo33/Test.git/Non%20Functional%20Requirements/nonfunctionalrequirement_BJlqiP5sQi/</loc>
+         <lastmod>2022-10-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/kikyoo33/Test.git/Architectural%20Decisions/architecturaldecision_SJrUYoxNmj/</loc>
-         <lastmod>2022-10-14</lastmod>
+         <loc>https://github.com/kikyoo33/Test.git/Non%20Functional%20Requirements/nonfunctionalrequirement_SJc0D9iXs/</loc>
+         <lastmod>2022-10-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/kikyoo33/Test.git/Architectural%20Decisions/architecturaldecision_SkfUYoe4ms/</loc>
-         <lastmod>2022-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/kikyoo33/Test.git/Architectural%20Decisions/architecturaldecision_SyNDYseVmj/</loc>
-         <lastmod>2022-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/kikyoo33/Test.git/RACI/notes_rygJvzeHQj/</loc>
-         <lastmod>2022-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/kikyoo33/Test.git/Services%20View/aodservices_3C17Ktrkiey/</loc>
-         <lastmod>2022-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/kikyoo33/Test.git/Static%20View/cmstaticview_3C182KZKvJi/</loc>
-         <lastmod>2022-10-14</lastmod>
+         <loc>https://github.com/kikyoo33/Test.git/Risks/risk_rygP7_9oQj/</loc>
+         <lastmod>2022-10-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
