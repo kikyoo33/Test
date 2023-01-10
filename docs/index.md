@@ -4,11 +4,11 @@
 
 ### Name
 
-teamsd 1018
+reg 1229
 
 ### Client Name
 
-test new BU update
+
 
 ### Opportunity Number
 
@@ -18,7 +18,6 @@ test new BU update
 
 
 
-Aerospace and Defense  
 
 
 
@@ -73,4 +72,4 @@ Email: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; dujunyi@cn.ibm.com
 
 ### Last modified date
 
-2022-10-18
+2023-01-05
